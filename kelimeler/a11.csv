@@ -1,0 +1,716 @@
+﻿1;ab;ap;-den itibaren;a1.1
+2;der Abend;abınt;akşam;a1.1
+3;aber;aba;ama;a1.1
+4;abfahren;ap fahren;(tren, otobüs) kalkmak;a1.1
+5;die Abfahrt;ap fart;kalkış;a1.1
+6;abgeben;ap gebın;teslim etmek;a1.1
+7;abholen;ap holen;gidip almak, karşılamak;a1.1
+8;abnehmen;ap neymın;kilo vermek, teslim almak;a1.1
+9;die Abreise;aprayse;yolculuğa çıkış;a1.1
+10;abschließen;ap şliysın;kilitlemek;a1.1
+11;der Absender;ap zenda;gönderen;a1.1
+12;die Achtung;ah tunk;dikkat;a1.1
+13;die Adresse;adrese;adres;a1.1
+14;die Ahnung (keine Ahnung);a nung  (kayne anung);fikir, düşünce (fikrim yok);a1.1
+15;all-;al;tüm;a1.1
+16;allein;alayn;yalnız;a1.1
+17;also;alzo;yani;a1.1
+18;alt;alt;yaşlı, eski, bayat;a1.1
+19;das Alter;alta;yaş;a1.1
+20;die Ampel;ampıl;trafik lambası;a1.1
+21;an;an;-de / -da, kenarında;a1.1
+22;anbieten;an biytın;ikram etmek;a1.1
+23;das Angebot;angebot;teklif, indirim;a1.1
+24;anfangen;an fangen;başlamak;a1.1
+25;der Anfang;anfang;başlangıç;a1.1
+26;der Angestellte;angeştelte;memur, çalışan;a1.1
+27;ankommen;an komın;varmak, gelmek;a1.1
+28;anklicken;an kliken;tıklamak;a1.1
+29;die Ankunft;an kunft;varış;a1.1
+30;ankreuzen;an kroy sın;işaretlemek;a1.1
+31;anmachen;an mahın;açmak;a1.1
+32;anmelden;an meldın;başvurmak;a1.1
+33;die Anmeldung;an meldunk;başvuru;a1.1
+34;die Anrede;an rede;hitap;a1.1
+35;die Anreise;anrayze;varış, yolculuk;a1.1
+36;anrufen;an ğrufın;aramak (tlf);a1.1
+37;der Anruf;an ğruf;arama (tlf);a1.1
+38;der Anrufbeantworter;an ğruf beantvorta;telesekreter;a1.1
+39;die Ansage;an zage;anons, duyuru;a1.1
+40;anschauen;an şauen;bakmak, seyretmek;a1.1
+41;der Anschluss;an şlus;aktarma;a1.1
+42;an sein;an zayn;çalışmak, açık olmak;a1.1
+43;die Anzeige;an tsaygı;ilan;a1.1
+44;der Apfel;ap fıl;elma;a1.1
+45;der Appetit;apetit;iştah, afiyet olsun;a1.1
+46;das Apartment;apartment;apartman, daire;a1.1
+47;die Apotheke;apotheke;eczane;a1.1
+48;der Apparat;aparat;aygıt, cihaz;a1.1
+49;arbeiten;a baytın;çalışmak;a1.1
+50;die Arbeit;a bayt;iş;a1.1
+51;der Arbeiter;a baytır;işçi;a1.1
+52;arbeitslos;a baytslos;işsiz;a1.1
+53;der Arbeitsplatz;a bayts plas;iş yeri;a1.1
+54;der Arm;arm;kol;a1.1
+55;der Arzt;arst;doktor;a1.1
+56;attraktiv;atraktif;çekici, cazip;a1.1
+57;auch;auh;(ben) de;a1.1
+58;auf;auf;-de / -da, üstünde;a1.1
+59;die Aufgabe;auf gabı;görev, ödev;a1.1
+60;aufhören;auf höğrın;bitmek, bırakmak;a1.1
+61;auf sein;auf zayn;açık olmak;a1.1
+62;aufstehen;auf şteyin;kalkmak;a1.1
+63;der Aufzug;auf tsuk;asansör;a1.1
+64;das Auge;augı;göz;a1.1
+65;aus;aus;-den, -dan;a1.1
+66;der Ausflug;aus fluk;gezi;a1.1
+67;ausfüllen;aus fülın;doldurmak;a1.1
+68;der Ausgang;aus gang;çıkış;a1.1
+69;ausgeben;aus gebın;harcamak;a1.1
+70;die Auskunft;auskunft;danışma, bilgi;a1.1
+71;das Ausland;auslant;yurtdışı;a1.1
+72;der Ausländer;auslenda;yabancı;a1.1
+73;ausländisch;auslendiş;yabancılarla ilgili;a1.1
+74;ausmachen;aus mahın;kapatmak;a1.1
+75;die Aussage;aus zagı;ifade;a1.1
+76;aussehen;aus zeyın;görünmek;a1.1
+77;aus sein;aus zayn;kapalı olmak, bitmiş olmak;a1.1
+78;aussteigen;aus ştaygın;inmek;a1.1
+79;der Ausweis;aus vays;kimlik;a1.1
+80;das Auto;auto;araba;a1.1
+81;die Autobahn;auto ban;otoban;a1.1
+82;der Automat;auto mat;otomat, bankamatik;a1.1
+83;automatisch;auto matiş;otomatik;a1.1
+84;das Baby;beybi;bebek;a1.1
+85;die Bäckerei;bekeray;fırın;a1.1
+86;das Bad;bat;banyo;a1.1
+87;baden;badın;banyo yapmak, yüzmek;a1.1
+88;die Bahn;ban;tren;a1.1
+89;der Bahnhof;ban hof;tren istasyonu;a1.1
+90;der Bahnsteig;ban ştayk;peron;a1.1
+91;bald;balt;yakında;a1.1
+92;der Balkon;balkon;balkon;a1.1
+93;die Banane;banane;muz;a1.1
+94;die Bank;bank;banka;a1.1
+95;die Bar;bağ;bar;a1.1
+96;bar;bağ;nakit;a1.1
+97;der Bauch;bauh;karın;a1.1
+98;der Baum;baum;ağaç;a1.1
+99;der Beamte;beamtı;memur;a1.1
+100;bedeuten;bedoytın;anlamı olmak;a1.1
+101;beginnen;beginen;başlamak;a1.1
+102;bei;bay;yanında, yakınında, -de;a1.1
+103;beide;baydı;ikisi;a1.1
+104;das Bein;bayn;bacak;a1.1
+105;das Beispiel;bayşpiyl;örnek;a1.1
+106;bekannt;bekant;tanınmış, ünlü;a1.1
+107;der/die Bekannte;bekantı;tanıdık;a1.1
+108;bekommen;bekomın;birinden bir şey almak;a1.1
+109;benutzen;benutsın;kullanmak;a1.1
+110;der Beruf;beğruf;meslek;a1.1
+111;besetzt;bezetst;dolu, meşgul;a1.1
+112;besichtigen;bezihtigın;gezmek, dolaşmak (tarihi yer);a1.1
+113;besser;besa;daha iyi;a1.1
+114;best-;best;en iyi;a1.1
+115;bestellen;beştelın;sipariş etmek,çağırmak (taksi);a1.1
+116;das Bett;bet;yatak;a1.1
+117;bezahlen;besalen;ödemek;a1.1
+118;das Bier;biya;bira;a1.1
+119;das Bild;bilt;resim;a1.1
+120;billig;bilik;ucuz;a1.1
+121;die Birne;birne;armut;a1.1
+122;bis;bis;-e kadar;a1.1
+123;(ein) bisschen;(ayn) bis hiyen;biraz;a1.1
+124;bitte;bite;lütfen, rica ederim, buyurun;a1.1
+125;bitten;bitın;rica etmek;a1.1
+126;die Bitte;bite;rica;a1.1
+127;bitter;bitağ;acımsı;a1.1
+128;bleiben;blaybın;kalmak;a1.1
+129;der Bleistift;blay ştift;kurşun kalem;a1.1
+130;der Blick;blik;manzara;a1.1
+131;die Blume;blume;çiçek;a1.1
+132;böse;bözı;kızgın;a1.1
+133;der Bogen;bogın;cevap anahtarı;a1.1
+134;brauchen;brauhın;ihtiyacı olmak;a1.1
+135;breit;bğrayt;geniş;a1.1
+136;der Brief;bğrif;mektup;a1.1
+137;die Briefmarke;bğrif markı;mektup pulu;a1.1
+138;bringen;bringın;getirmek;a1.1
+139;das Brot;bğrot;ekmek;a1.1
+140;das Brötchen;bğröt hiyen;küçük ekmek;a1.1
+141;der Bruder;bğruda;erkek kardeş, ağabey;a1.1
+142;das Buch;buh;kitap;a1.1
+143;buchstabieren;buh ştabiyrın;harf harf söylemek;a1.1
+144;der Buchstabe;buh ştabe;harf;a1.1
+145;der Bus;bus;otobüs;a1.1
+146;die Butter;buta;tereyağ;a1.1
+147;das Cafe;kafe;kafe;a1.1
+148;die CD;sede;cd;a1.1
+149;der Chef;şef;şef;a1.1
+150;circa/ ca.;sirka;aşağı yukarı, yaklaşık;a1.1
+151;der Computer;kompiyuta;bilgisayar;a1.1
+152;da;da;orada, burada, o zaman;a1.1
+153;die Dame;dame;hanım, bayan;a1.1
+154;daneben;danebın;yanında;a1.1
+155;danken;dankın;teşekkür etmek;a1.1
+156;der Dank;dank;teşekkür;a1.1
+157;danke;danke;teşekkür ederim;a1.1
+158;dann;dan;sonra;a1.1
+159;dass;das;-dığı, ki;a1.1
+160;das Datum;datum;tarih;a1.1
+161;dauern;dauern;sürmek;a1.1
+162;dein;dayn;senin;a1.1
+163;denn;den;çünkü;a1.1
+164;der, die, das;deya, di, das;ön takılar;a1.1
+165;dich;dih;seni;a1.1
+166;dies-;diyz;bu;a1.1
+167;das Ding;ding;şey;a1.1
+168;dir;diya;sana;a1.1
+169;die Disco;disko;disko;a1.1
+170;der Doktor;doktoğ;doktor;a1.1
+171;der Dom;dom;büyük kilise;a1.1
+172;das Doppelzimmer;dopıl sima;çift kişilik oda;a1.1
+173;das Dorf;dorf;köy;a1.1
+174;dort;dort;orada;a1.1
+175;dorthin;dorthin;oraya;a1.1
+176;dorther;dortheya;oradan;a1.1
+177;draußen;dğrausın;dışarıda;a1.1
+178;drucken;dğrukın;basmak (yazıcı);a1.1
+179;der Drucker;dğruka;yazıcı;a1.1
+180;drücken;dğrükın;basmak;a1.1
+181;du;du;sen;a1.1
+182;durch;duryh;içinden geçerek;a1.1
+183;die Durchsage;duryh zagı;duyuru, anons;a1.1
+184;dürfen;dürfın;izinli olmak;a1.1
+185;der Durst;durst;susuzluk;a1.1
+186;duschen;duşın;duş almak;a1.1
+187;die Dusche;duşe;duş;a1.1
+188;die Ecke;eke;köşe;a1.1
+189;das Ei;ay;yumurta;a1.1
+190;die Ehefrau;eye fğrau;eş, karı;a1.1
+191;der Ehemann;eye man;eş, koca;a1.1
+192;eilig;aylik;acele, acil;a1.1
+193;ein-;ayn;bir;a1.1
+194;einfach;aynfah;kolay, tek yön;a1.1
+195;der Eingang;ayngang;giriş;a1.1
+196;einkaufen;ayn kaufın;alış veriş yapmak;a1.1
+197;einladen;ayn ladın;davet etmek;a1.1
+198;die Einladung;ayn ladung;davetiye, davet;a1.1
+199;einmal;ayn mal;bir defa, bir ket;a1.1
+200;einsteigen;ayn ştaygın;binmek;a1.1
+201;der Eintritt;ayn tğrit;giriş;a1.1
+202;das Einzelzimmer;aynzıl sima;tek kişilik oda;a1.1
+203;elegant;elegant;şık;a1.1
+204;die Eltern;eltern;anne baba;a1.1
+205;der Elternabend;eltern abent;veli toplantısı;a1.1
+206;die E-Mail;i meyil;e-posta;a1.1
+207;der Empfänger;emfenga;alıcı (mektubu);a1.1
+208;empfehlen;emp feylın;tavsiye etmek;a1.1
+209;enden;endın;bitmek;a1.1
+210;das Ende;ende;son, bitiş;a1.1
+211;entschuldigen;entşuldigen;özür dilemek;a1.1
+212;Entschuldigung;entşuldigung;özür dilerim, affedersiniz;a1.1
+213;er;eya;o (erkek için);a1.1
+214;erklären;erkleyrın;açıklamak;a1.1
+215;erlauben;erlaubın;izin vermek;a1.1
+216;erst;erst;henüz, daha;a1.1
+217;erzählen;erseylın;anlatmak;a1.1
+218;der Erwachsene;ervaksenı;yetişkin;a1.1
+219;es regnet;es regnıt;yağmur yağıyor;a1.1
+220;essen;esın;yemek yemek;a1.1
+221;das Essen;esın;yemek;a1.1
+222;euer;oya;sizin;a1.1
+223;fahren;fağrın;araçla gitmek, sürmek;a1.1
+224;der Fahrer;fağra;şoför;a1.1
+225;der Fahrgast;fargast;yolcu (tren, otobüs);a1.1
+226;die Fahrkarte;fağr karte;bilet;a1.1
+227;das Fahrrad;fağr rat;bisiklet;a1.1
+228;falsch;falş;yanlış;a1.1
+229;die Familie;familiye;aile;a1.1
+230;der Familienname;familiyen name;soy isim;a1.1
+231;der Familienstand;familiyen ştant;medeni hal;a1.1
+232;die Farbe;farbı;renk;a1.1
+233;das Fax;faks;faks;a1.1
+234;der Feierabend;faya abent;paydos;a1.1
+235;der Feiertag;faya tak;kutlama günü, bayram;a1.1
+236;feiern;fayern;kutlamak;a1.1
+237;fehlen;feylın;eksik olmak;a1.1
+238;der Fehler;feyla;hata;a1.1
+239;die Ferien;feğriyen;tatil;a1.1
+240;fernsehen;fern zeyen;televizyon izlemek;a1.1
+241;der Fernseher;fernzeya;televizyon;a1.1
+242;fertig;fertik;bitti;a1.1
+243;das Feuer;foya;ateş;a1.1
+244;das Fieber;fiba;ateş (hastalık);a1.1
+245;der Film;film;film;a1.1
+246;finden;findın;bulmak;a1.1
+247;die Firma;firma;firma;a1.1
+248;der Fisch;fiş;balık;a1.1
+249;die Flasche;flaşe;şişe;a1.1
+250;das Fleisch;flayş;et;a1.1
+251;fliegen;fligen;uçmak;a1.1
+252;abfliegen;ap fligen;(uçak) kalkmak;a1.1
+253;der Abflug;ap fluk;uçağın kalkması;a1.1
+254;der Fluggast;flukgast;yolcu (uçak);a1.1
+255;der Flughafen;fluk hafın;havalimanı;a1.1
+256;das Flugzeug;fluk soyk;uçak;a1.1
+257;das Formular;formula;form;a1.1
+258;das Foto;foto;fotoğraf;a1.1
+259;fragen;fğragın;sormak;a1.1
+260;die Frage;fğragı;soru;a1.1
+261;die Frau;fğrau;bayan;a1.1
+262;die Freizeit;fğraysayt;boş zaman;a1.1
+263;fremd;fğremt;yabancı;a1.1
+264;freuen;fğroyın;sevinmek;a1.1
+265;der Freund;fğroynt;arkadaş;a1.1
+266;früher;fğrüa;eskiden, önceden;a1.1
+267;frühstücken;fğrüştükın;kahvaltı yapmak;a1.1
+268;das Frühstück;fğrüştük;kahvaltı;a1.1
+269;die Führung;füyrung;rehberlik, tur;a1.1
+270;für;füya;için;a1.1
+271;der Fuß;fus;ayak;a1.1
+272;der Fußball;fus bal;futbol;a1.1
+273;der Garten;gartın;bahçe;a1.1
+274;der Gast;gast;misafir;a1.1
+275;geben;gebın;vermek;a1.1
+276;geboren;geborın;doğmak;a1.1
+277;das Geburtsjahr;geburts yar;doğum yılı;a1.1
+278;der Geburtsort;geburts ort;doğum yeri;a1.1
+279;der Geburtstag;geburts tak;doğum günü;a1.1
+280;gefallen;gefalın;beğenmek;a1.1
+281;gegen;gegin;karşı, doğru (saat);a1.1
+282;gehen;geyin;gitmek, nasılsın;a1.1
+283;gehören;gehörın;ait olmak;a1.1
+284;das Geld;gelt;para;a1.1
+285;das Gemüse;gemüze;sebze;a1.1
+286;das Gepäck;gepek;bavul, bagaj;a1.1
+287;gerade;geğrade;tam (da);a1.1
+288;geradeaus;geğradıaus;doğru, direkt;a1.1
+289;gern;gern;severek;a1.1
+290;das Geschäft;geşeft;mağaza;a1.1
+291;das Geschenk;geşenk;hediye;a1.1
+292;geschlossen;geşlosın;kapalı;a1.1
+293;die Geschwister;geşvista;kardeşler;a1.1
+294;gestern;gestern;dün;a1.1
+295;gestorben;geştorben;öldü;a1.1
+296;geöffnet;geöfnıt;açık;a1.1
+297;das Gespräch;geşpreyh;görüşme;a1.1
+298;das Getränk;getrenk;içecek;a1.1
+299;das Gewicht;geviht;ağırlık;a1.1
+300;gewinnen;gevinen;kazanmak;a1.1
+301;das Glas;glas;bardak, cam;a1.1
+302;glauben;glaubın;inanmak, sanmak;a1.1
+303;gleich;glayh;derhal, aynı, birazdan;a1.1
+304;das Gleis;glays;peron;a1.1
+305;das Glück;glük;mutluluk, şans;a1.1
+306;glücklich;glüklih;mutlu, şanslı;a1.1
+307;der Glückwunsch;glükvunş;tebrik;a1.1
+308;Grad;g ğrat;derece;a1.1
+309;gratulieren;g ğratuliyren;tebrik etmek;a1.1
+310;grillen;g ğrilen;ızgara yapmak;a1.1
+311;groß;g ğros;büyük;a1.1
+312;die Größe;g ğröse;beden, büyüklük;a1.1
+313;die Großeltern;gros eltern;büyük anne baba;a1.1
+314;die Großmutter;gros muta;büyükanne;a1.1
+315;der Großvater;gros fata;büyükbaba;a1.1
+316;die Gruppe;grupe;grup;a1.1
+317;der Gruß;g ğrus;selam;a1.1
+318;gültig;gültik;geçerli;a1.1
+319;günstig;günstik;uygun, ucuz;a1.1
+320;gut;gut;iyi;a1.1
+321;das Haar;haa;saç;a1.1
+322;haben;habın;var – yok, sahip olmak;a1.1
+323;das Hähnchen;heynhiyen;piliç;a1.1
+324;die Halbpension;halppensiyon;yarım pansiyon;a1.1
+325;hallo;halo;merhaba;a1.1
+326;halten;haltın;durmak;a1.1
+327;das Handy;hendiy;cep telefonu;a1.1
+328;das Haus;haus;ev;a1.1
+329;die Hausaufgabe;hausaufgabı;ev ödevi;a1.1
+330;die Hausfrau;haus fğau;ev hanımı;a1.1
+331;der Hausmann;haus man;ev erkeği;a1.1
+332;die Heimat;haymat;vatan, memleket;a1.1
+333;heiraten;hayratın;evlenmek;a1.1
+334;heißen;haysın;adı olmak;a1.1
+335;helfen;helfın;yardım etmek;a1.1
+336;hell;hel;aydınlık, açık;a1.1
+337;der Herd;hert;ocak;a1.1
+338;der Herr;heya;bey, bay;a1.1
+339;herzlich;herslih;içten;a1.1
+340;heute;hoytı;bugün;a1.1
+341;hier;hiya;burada;a1.1
+342;die Hilfe;hilfe;yardım, imdat;a1.1
+343;das Hobby;hobi;hobi;a1.1
+344;hoch;hoh;yüksek;a1.1
+345;die Hochzeit;hohsayt;düğün;a1.1
+346;hoffentlich;hofentlih;umarım, inşallah;a1.1
+347;holen;holın;gidip almak, alıp getirmek;a1.1
+348;hören;höğrın;dinlemek, duymak;a1.1
+349;das Hotel;hotıl;otel;a1.1
+350;der Hund;hunt;köpek;a1.1
+351;der Hunger;hunga;açlık;a1.1
+352;ich;ih;ben;a1.1
+353;ihm/ ihr;iym/ iya;ona (erk. / byn);a1.1
+354;ihn;iyn;onu (erkek);a1.1
+355;Ihnen;iynın;size (nazik);a1.1
+356;immer;imma;her zaman, daima;a1.1
+357;in;in;-de, -da, içinde;a1.1
+358;die Information;informatiyon;bilgi, danışma;a1.1
+359;interessant;interesant;ilginç, enteresan;a1.1
+360;international;internatiyonal;uluslar arası;a1.1
+361;das Internet;internet;internet;a1.1
+362;ja;ya;evet;a1.1
+363;die Jacke;yake;ceket;a1.1
+364;jede/n/r/s;yede / yedın/ yeda/yedes;her;a1.1
+365;jedenfalls;yedenfals;bari, en azından;a1.1
+366;der Job;jop;iş;a1.1
+367;die Jugendherberge;yugentheyabergı;öğrenci oteli, pansiyon;a1.1
+368;der Jugendliche;yugentlihe;genç(ler);a1.1
+369;jung;yung;genç;a1.1
+370;der Junge;yunge;genç (erkek);a1.1
+371;der Kaffee;kafe;kahve;a1.1
+372;kaputt;kaput;bozuk, kırık, arızalı;a1.1
+373;die Karte;kartı;kart;a1.1
+374;die Kartoffel;kartofıl;patates;a1.1
+375;die Kasse;kase;kasa, gişe;a1.1
+376;die Kreditkarte;kredit karte;kredi kartı;a1.1
+377;kaufen;kaufın;satın almak;a1.1
+378;das Kaufhaus;kaufhaus;büyük mağaza;a1.1
+379;kein;kayn;değil, yok;a1.1
+380;kennen;kenın;tanımak, bilmek;a1.1
+381;das Kind;kint;çocuk;a1.1
+382;der Kindergarten;kindagartın;yuva, anaokulu;a1.1
+383;das Kino;kino;sinema;a1.1
+384;der Kiosk;kiosk;büfe;a1.1
+385;Klar!;kla;tabi;a1.1
+386;die Klasse;klası;sınıf;a1.1
+387;die Kleidung;klaydung;kıyafet, giyim;a1.1
+388;klein;klayn;küçük;a1.1
+389;kochen;kohın;yemek pişirmek;a1.1
+390;der Koffer;koffa;bavul;a1.1
+391;kommen;komın;gelmek;a1.1
+392;können;könın;yapabilmek, -e bilmek;a1.1
+393;das Konto;konto;hesap (banka);a1.1
+394;das Konzert;konsert;konser;a1.1
+395;der Kopf;kopf;kafa, baş;a1.1
+396;kosten;kostın;fiyatı olmak;a1.1
+397;krank;kğrank;hasta;a1.1
+398;kriegen;kğrigen;elde etmek, almak;a1.1
+399;die Küche;kühe;mutfak;a1.1
+400;der Kuchen;kuhın;pasta;a1.1
+401;der Kugelschreiber;kugılşrayba;tükenmez kalem;a1.1
+402;kulturell;kulturel;kültürel;a1.1
+403;der Kühlschrank;kül şrank;buzdolabı;a1.1
+404;kümmern;kümern;ilgilenmek;a1.1
+405;der Kunde;kunde;müşteri;a1.1
+406;der Kurs;kurs;kurs;a1.1
+407;kurz;kurts;kısa;a1.1
+408;lachen;lahın;gülmek;a1.1
+409;der Laden;ladın;dükkan;a1.1
+410;das Land;lant;ülke;a1.1
+411;lang;lang;uzun;a1.1
+412;langsam;langzam;yavaş;a1.1
+413;laufen;laufın;yürümek;a1.1
+414;leben;lebın;yaşamak;a1.1
+415;das Leben;lebın;yaşam;a1.1
+416;die Lebensmittel;lebınsmitıl;yiyecekler, gıda;a1.1
+417;ledig;ledik;bekâr;a1.1
+418;legen;legın;koymak, bırakmak;a1.1
+419;der Lehrer;leyhra;öğretmen;a1.1
+420;leicht;layht;kolay, hafif;a1.1
+421;leid – Tut mir leid;tut miya layt;üzgünüm;a1.1
+422;leider;layda;maalesef;a1.1
+423;leise;layze;sessiz;a1.1
+424;lernen;lernın;öğrenmek;a1.1
+425;lesen;lezın;okumak;a1.1
+426;letzte/r/n/s;letste/letsta/letstın/letstes;geçen;a1.1
+427;die Leute;loyte;insanlar;a1.1
+428;das Licht;liht;ışık;a1.1
+429;liebe, lieber;libe;sevgili;a1.1
+430;lieben;libın;sevmek;a1.1
+431;lieber;liba;tercih ederim;a1.1
+432;Lieblings-;liblinks;en sevdiği;a1.1
+433;das Lied;liyt;şarkı;a1.1
+434;liegen;ligın;yatmak, durmak;a1.1
+435;links;links;sol, sola, solda;a1.1
+436;der LKW;elkave;kamyon;a1.1
+437;das Lokal;lokal;lokal;a1.1
+438;die Lösung;lözung;çözüm;a1.1
+439;lustig;lustik;komik, eğlenceli;a1.1
+440;machen;mahın;yapmak;a1.1
+441;das Mädchen;methiyen;kız;a1.1
+442;der Mann;man;adam, erkek;a1.1
+443;männlich;menlih;erkek;a1.1
+444;die Maschine;maşine;makine, uçak;a1.1
+445;das Meer;meya;deniz;a1.1
+446;mehr;meya;daha çok;a1.1
+447;mein;mayn;benim;a1.1
+448;meistens;maystıns;çoğu zaman, genellikle;a1.1
+449;mieten;miytın;kiralamak;a1.1
+450;die Miete;miytı;kira;a1.1
+451;die Milch;milh;süt;a1.1
+452;mir;miya;bana;a1.1
+453;mit;mit;ile , -lü;a1.1
+454;mitbringen;mitbringen;yanında getirmek;a1.1
+455;mitkommen;mitkomın;beraber gelmek, gitmek;a1.1
+456;mitmachen;mitmahın;katılmak;a1.1
+457;mitnehmen;mitneymen;yanına almak;a1.1
+458;der Mittag;mitak;öğle;a1.1
+459;die Mitte;mite;orta;a1.1
+460;das Mobiltelefon;mobiltelefon;cep telefonu;a1.1
+461;die Möbel;möbıl;mobilya;a1.1
+462;möchten;möhtın;istemek;a1.1
+463;mögen;mögın;sevmek, istemek;a1.1
+464;der Moment;moment;an;a1.1
+465;der Morgen;morgın;sabah;a1.1
+466;morgen;morgın;yarın;a1.1
+467;müde;müdı;yorgun;a1.1
+468;der Mund;munt;ağız;a1.1
+469;das Museum;muzeyum;müze;a1.1
+470;müssen;müsın;zorunlu, gerekli olmak;a1.1
+471;die Mutter;muta;anne;a1.1
+472;nach;nah;geçiyor, -e / -a;a1.1
+473;der Nachmittag;nahmitak;öğleden sonra;a1.1
+474;nächste;nekste;gelecek, diğer;a1.1
+475;die Nacht;naht;gece;a1.1
+476;der Name;name;isim;a1.1
+477;die Nase;nazı;burun;a1.1
+478;nehmen;neymen;almak;a1.1
+479;nein;nayn;hayır;a1.1
+480;nett;net;nazik, düşünceli;a1.1
+481;neu;noy;yeni;a1.1
+482;nicht;niht;değil;a1.1
+483;nichts;nihts;hiçbir şey;a1.1
+484;nie;ni;asla, hiç;a1.1
+485;noch;noh;daha;a1.1
+486;normal;no mal;normal;a1.1
+487;die Nummer;numa;numara;a1.1
+488;nur;nua;sadece;a1.1
+489;oben;obın;yukarıda;a1.1
+490;das Obst;opst;meyve;a1.1
+491;oder;oda;ya da, değil mi;a1.1
+492;öffnen;öfnın;açmak;a1.1
+493;das Öl;öl;sıvı yağ;a1.1
+494;oft;oft;sık sık;a1.1
+495;ohne;one;olmadan, -sız;a1.1
+496;das Ohr;oa;kulak;a1.1
+497;die Oma;oma;nine;a1.1
+498;der Opa;opa;dede;a1.1
+499;in Ordnung;in ordnung;olur, tamam;a1.1
+500;der Ort;ort;yer, şehir;a1.1
+501;das Papier;papiya;kağıt, evrak, belge;a1.1
+502;der Partner;partna;ortak, partner, arkadaş (bay);a1.1
+503;die Partnerin;partnerin;ortak, partner, arkadaş (byn);a1.1
+504;die Party;parti;parti;a1.1
+505;der Pass;pas;pasaport;a1.1
+506;der Passagier;pasajiyr;yolcu (uçak);a1.1
+507;die Pause;pauzı;ara, paydos;a1.1
+508;der Plan;plan;plan;a1.1
+509;der Platz;plats;yer, meydan;a1.1
+510;die Polizei;polisay;polis;a1.1
+511;die Pommes frites;pom frits;patates kızartması;a1.1
+512;die Post;post;postane;a1.1
+513;die Postleitzahl (PLZ);postlaytsahl;posta kodu;a1.1
+514;das Praktikum;praktikum;staj;a1.1
+515;die Praxis;praksis;muayenehane;a1.1
+516;der Preis;prays;fiyat;a1.1
+517;das Problem;probleym;problem;a1.1
+518;das Projekt;proyekt;proje;a1.1
+519;der Prospekt;prospekt;broşür;a1.1
+520;der Pullover;pulova;kazak;a1.1
+521;pünktlich;pünktlih;dakik, zamanında;a1.1
+522;Rad fahren;ğrat farın;bisiklete binmek;a1.1
+523;rauchen;ğrauhın;sigara içmek;a1.1
+524;der Raum;ğraum;oda;a1.1
+525;die Rechnung;ğrehnung;hesap, fatura;a1.1
+526;rechts;ğrehts;sağ, sağa, sağda;a1.1
+527;der Reis;ğrays;pirinç;a1.1
+528;reisen;ğrayzın;seyahat etmek;a1.1
+529;die Reise;ğrayzı;seyahat;a1.1
+530;das Reisebüro;ğrayzı büro;seyahat acentesi;a1.1
+531;der Reiseführer;ğrayzı füyra;rehber, kitap;a1.1
+532;der Reisende;ğrayzende;yolcu;a1.1
+533;reparieren;ğrepariyren;tamir etmek;a1.1
+534;die Reparatur;ğreparatua;tamir, onarım;a1.1
+535;reservieren;ğrezerviyrın;yer ayırtmak;a1.1
+536;das Restaurant;ğrestoran;restoran;a1.1
+537;die Rezeption;ğresepsiyon;resepsiyon;a1.1
+538;richtig;ğrihtik;doğru;a1.1
+539;riechen;ğriyhen;kokmak, koklamak;a1.1
+540;ruhig;ğruyik;sessiz;a1.1
+541;die Sache;zahı;şey, eşya, konu;a1.1
+542;der Saft;zaft;meyve suyu;a1.1
+543;die Sahne;zane;kaymak, kremşanti;a1.1
+544;der Salat;zalat;salata, marul;a1.1
+545;das Salz;zals;tuz;a1.1
+546;der Schalter;şatla;gişe;a1.1
+547;scheinen;şaynen;parlamak;a1.1
+548;das Schiff;şif;gemi;a1.1
+549;das Schild;şilt;levha;a1.1
+550;der Schinken;şinken;domuz salamı, jambon;a1.1
+551;schlafen;şlafın;uyumak;a1.1
+552;schlecht;şleht;kötü;a1.1
+553;schließen;şlisın;kapatmak, kilitlemek;a1.1
+554;der Schluss;şlus;son;a1.1
+555;der Schlüssel;şlüsıl;anahtar;a1.1
+556;schmecken;şmekın;tadı olmak, lezzeti olmak;a1.1
+557;schön;şön;güzel;a1.1
+558;der Schrank;şğrank;dolap;a1.1
+559;schreiben;şğrayben;yazmak;a1.1
+560;der Schuh;şu;ayakkabı;a1.1
+561;die Schule;şule;okul;a1.1
+562;der Schüler;şüla;öğrenci;a1.1
+563;schwer;şvea;zor, ağır;a1.1
+564;die Schwester;şvesta;kız kardeş, abla;a1.1
+565;schwimmen;şvimın;yüzmek;a1.1
+566;das Schwimmbad;şvimbat;yüzme havuzu;a1.1
+567;der See;ze;göl;a1.1
+568;sehen;zehın;görmek;a1.1
+569;die Sehenswürdigkeit;zehınvürdik kayt;görülmeye değer yer;a1.1
+570;sehr;zeha;çok;a1.1
+571;sein;zayn;olmak;a1.1
+572;an sein;an zayn;açık olmak (ışık, televizyon);a1.1
+573;auf sein;auf zayn;açık olmak (pencere, kapı);a1.1
+574;zu sein;su zayn;kapalı olmak;a1.1
+575;seit;zayt;-den beri, -dır;a1.1
+576;selbstständig;zelbstştandik;bağımsız, serbest;a1.1
+577;sie;zi;o (bayan);a1.1
+578;Sie;zi;siz (nazik);a1.1
+579;sitzen;zitsın;oturmak;a1.1
+580;das Sofa;zofa;koltuk;a1.1
+581;sofort;zofort;hemen;a1.1
+582;der Sohn;zon;oğul;a1.1
+583;sollen;zolın;-mesi gerek, -meli/-malı;a1.1
+584;das Sonderangebot;zondaangebot;ucuzluk;a1.1
+585;die Sonne;zone;güneş;a1.1
+586;spät;şpeyt;geç;a1.1
+587;später;şpeyta;daha sonra;a1.1
+588;sonst;sonst;başka;a1.1
+589;die Speisekarte;şpayzı karte;menü;a1.1
+590;spielen;şpilen;oynamak, çalmak;a1.1
+591;der Spaß;şpas;eğlence, şaka;a1.1
+592;der Sport;şport;spor;a1.1
+593;der Sportplatz;şportplats;spor sahası;a1.1
+594;die Sprache;şrahı;dil, lisan;a1.1
+595;sprechen;şprehın;konuşmak;a1.1
+596;die Stadt;ştat;şehir;a1.1
+597;stattfinden;ştatfinden;olmak, meydana gelmek;a1.1
+598;die Stelle;ştele;iş yeri, yer;a1.1
+599;stellen;ştelın;koymak;a1.1
+600;der Stock;ştok;kat;a1.1
+601;die Straße;ştası;cadde;a1.1
+602;die Straßenbahn;ştrasınban;tramvay;a1.1
+603;die S-Bahn;esban;tramvay;a1.1
+604;studieren;ştudiyren;okumak (üni);a1.1
+605;der Student;ştudent;üni. öğrencisi;a1.1
+606;das Studium;ştudiyum;tahsil;a1.1
+607;die Stunde;ştunde;saat;a1.1
+608;suchen;zuhın;aramak;a1.1
+609;tanzen;tansın;dans etmek;a1.1
+610;die Tasche;taşe;çanta;a1.1
+611;das Taxi;taksi;taksi;a1.1
+612;der Tee;te;çay;a1.1
+613;der Teil;tayl;bölüm, kısım;a1.1
+614;telefonieren;telefoniyren;telefon etmek;a1.1
+615;das Telefon;telefon;telefon;a1.1
+616;die Temperatur;temperatua;sıcaklık;a1.1
+617;der Termin;termin;randevu, tarih;a1.1
+618;der Test;test;test;a1.1
+619;teuer;toya;pahalı;a1.1
+620;der Text;tekst;metin;a1.1
+621;das Ticket;tiket;bilet;a1.1
+622;der Tisch;tiş;masa;a1.1
+623;die Tochter;tohta;kız evlat;a1.1
+624;die Toilette;toylete;tuvalet;a1.1
+625;die Tomate;tomate;domates;a1.1
+626;treffen;trefın;buluşmak;a1.1
+627;die Treppe;trepı;merdiven;a1.1
+628;trinken;trinkın;içmek;a1.1
+629;tun;tun;yapmak;a1.1
+630;über;üba;üzerinde;a1.1
+631;übernachten;üba nahtın;gecelemek, konaklamak;a1.1
+632;die Übernachtung;üba nahtung;geceleme, konaklama;a1.1
+633;überweisen;üba vayzın;havale yapmak;a1.1
+634;die U-Bahn;uban;metro;a1.1
+635;die Uhr;ua;saat;a1.1
+636;um;um;-de, -da;a1.1
+637;umziehen;umsiyen;taşınmak;a1.1
+638;und;unt;ve;a1.1
+639;unser;unza;bizim;a1.1
+640;unten;unten;aşağıda;a1.1
+641;unter;unta;altında;a1.1
+642;unterschreiben;untaşraybın;imzalamak;a1.1
+643;die Unterschrift;untaşrift;imza;a1.1
+644;der Urlaub;urlaup;tatil;a1.1
+645;der Vater;fata;baba;a1.1
+646;verboten;feğrbotın;yasak;a1.1
+647;verdienen;verdiynen;kazanmak;a1.1
+648;der Verein;feğrayn;dernek, kulüp;a1.1
+649;vergessen;feğrgesın;unutmak;a1.1
+650;verheiratet;feğrhayratıt;evli;a1.1
+651;verkaufen;feğrkaufın;satmak;a1.1
+652;vermieten;feğrmiytın;kiraya vermek;a1.1
+653;die Verspätung;feğr şpeytunk;gecikme;a1.1
+654;verstehen;feğrşteyın;anlamak;a1.1
+655;viel;fiyl;çok;a1.1
+656;vielleicht;filayht;belki, acaba;a1.1
+657;der Vormittag;foamitak;öğleden önce;a1.1
+658;der Vorname;for namı;ön isim;a1.1
+659;die Vorsicht;forziht;dikkat;a1.1
+660;vorstellen;foa ştelın;tanıtmak, tanıştırmak;a1.1
+661;wandern;vandern;yürüyüş yapmak;a1.1
+662;wann;van;ne zaman;a1.1
+663;warten;vartın;beklemek;a1.1
+664;warum;vağrum;neden;a1.1
+665;was;vas;ne;a1.1
+666;was für ein;vas füya ayn;nasıl bir;a1.1
+667;waschen;vaşın;yıkamak;a1.1
+668;die Waschmaschine;vaşmaşine;çamaşır makinesi;a1.1
+669;das Wasser;vasa;su;a1.1
+670;weg sein;vek zayn;yok olmak, kaybolmak;a1.1
+671;weiblich;vayplih;dişi, kadın;a1.1
+672;der Wein;vayn;şarap;a1.1
+673;weit;vayt;uzak;a1.1
+674;weiter;vayta;devam;a1.1
+675;welche;velhe;hangi;a1.1
+676;die Welt;velt;dünya;a1.1
+677;wenig;venik;az;a1.1
+678;wer;veya;kim;a1.1
+679;werden;verdın;olmak;a1.1
+680;das Wetter;veta;hava;a1.1
+681;wichtig;vihtih;önemli;a1.1
+682;wie;vi;ne, nasıl;a1.1
+683;wiederholen;vidaholın;tekrar etmek;a1.1
+684;auf Wiederhören;auf vida hörın;görüşürüz (tlf);a1.1
+685;auf Wiedersehen;auf vida zeyn;görüşürüz;a1.1
+686;wie lang;vi lang;ne kadar süre;a1.1
+687;wie spät;vi şpeyt;saat kaç;a1.1
+688;wie viel;vi fiyl;ne kadar, kaç;a1.1
+689;willkommen;vil komın;hoş geldiniz;a1.1
+690;der Wind;vint;rüzgar;a1.1
+691;wir;viya;biz;a1.1
+692;wissen (ich weiß);visın (ih vays);bilmek (biliyorum);a1.1
+693;wo;vo;nerede;a1.1
+694;das Wochenende;vohınende;hafta sonu;a1.1
+695;woher;voheya;nereden, nereli;a1.1
+696;wohin;vohin;nereye;a1.1
+697;wohnen;vonın;oturmak, ikamet etmek;a1.1
+698;die Wohnung;vonung;daire;a1.1
+699;wollen;volın;istemek;a1.1
+700;das Wort;vort;kelime;a1.1
+701;wunderbar;vundaba;harika;a1.1
+702;zahlen;salın;ödemek;a1.1
+703;die Zeit;sayt;vakit, zaman;a1.1
+704;zurzeit;sursayt;şu sıralar;a1.1
+705;die Zeitung;saytung;gazete;a1.1
+706;die Zigarette;sigarete;sigara;a1.1
+707;das Zimmer;simma;oda;a1.1
+708;der Zoll;sol;gümrük;a1.1
+709;zu;su;-e doğru, kapalı;a1.1
+710;der Zucker;suka;şeker;a1.1
+711;zufrieden;sufriydın;memnun;a1.1
+712;der Zug;suk;tren;a1.1
+713;zumachen;sumahın;kapatmak (kapı vs);a1.1
+714;zurück;surük;geri;a1.1
+715;zusammen;suzamın;birlikte;a1.1
+716;zwischen;svişen;arasında;a1.1
